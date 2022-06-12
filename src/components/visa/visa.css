@@ -1,0 +1,29 @@
+.card {
+    height: 100x;
+    width: 420px;
+    background-image:linear-gradient(rgb(92, 52, 52),rgba(255, 61, 61, 0.8));
+    border-radius: 15px;
+    color:white;
+    /* margin:20px; */
+    font-size: 16px;
+    box-shadow: 2px 2px 20px #707070;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.container{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    
+}
+.card-icon{
+    display: flex;
+    justify-content: space-between;
+}
+.label{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

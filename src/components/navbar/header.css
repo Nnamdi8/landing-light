@@ -1,0 +1,18 @@
+.portal{
+    display: flex;
+    justify-content:space-between ;
+}
+.portalTitle{
+    font-size: 18px;
+     font-weight: bold;
+    
+}
+
+.portalOptions{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.paymentGate{
+    margin: 30px;
+}

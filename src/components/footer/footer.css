@@ -1,0 +1,5 @@
+.totalPayment{
+display: flex;
+justify-content: space-between;
+font-weight: bolder;
+}

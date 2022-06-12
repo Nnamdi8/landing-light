@@ -1,0 +1,13 @@
+.summary {
+    width: auto;
+}
+/* .cost {
+    border-bottom: 1px dashed #aaa;
+} */
+.cost .name {
+    font-weight: bold;
+}
+.cost .price {
+    float: right;
+    font-weight: bold;
+}
